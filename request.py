@@ -2,7 +2,7 @@ import requests
 from colorama import Fore, Style
 
 
-# to use change the name of json in the url bellow
+# to use change the name of json in the nft bellow
 # with one of rarity.tools website nft collection
 # it will print and save in a txt the traits
 # it's usefull to analyse diferent collecttions rarity by traits

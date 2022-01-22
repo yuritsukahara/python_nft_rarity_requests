@@ -1,5 +1,5 @@
 # python_nft_rarity_requests
-It will print and save in a txt file with the traits of the nft collection and the rarity of each treat. It's usefull to analyse diferent collecttions to create your own.
+It will print and save a txt file with the traits of the nft collection and the rarity of each treat. It's usefull to analyse diferent collecttions to create your own.
 
 
 ## Usage

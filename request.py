@@ -14,10 +14,10 @@ url = f'http://projects.rarity.tools/static/staticdata/{nft}.json'
 r = requests.get(url)
 atributos = r.json()['basePropDefs']
 
-lines = [nft]
+lines = [nft.upper()]
 traits = 0
 
-print(Fore.GREEN + nft)
+print(Fore.GREEN + nft.upper())
 
 traits_total_list = []
 for atributo in atributos:
@@ -34,6 +34,7 @@ for atributo in atributos:
         pass
 
 print(traits_total_list)
+lines.append(traits_total_list)
 for atributo in atributos:
     try:
         traits += 1

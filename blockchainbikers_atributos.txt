@@ -1,0 +1,223 @@
+BLOCKCHAINBIKERS
+1: ID
+
+2: HELMET
+
+Blue Neon: 0.0648
+Gas Mask: 0.0531
+Green Neon: 0.0662
+Grill: 0.0705
+Grill Gold: 0.0043
+Grill Iridescent: 0.0225
+Knight: 0.0604
+Knight Gold: 0.0052
+Knight Iridescent: 0.0209
+Purple Neon: 0.0661
+Red Neon: 0.0674
+Samurai: 0.048
+Samurai Gold: 0.0073
+Samurai Iridescent: 0.0235
+Skull: 0.1484
+Skull Gold: 0.0098
+Skull Iridescent: 0.073
+Spartan: 0.0428
+Spartan Gold: 0.0064
+Spartan Iridescent: 0.0127
+Standard: 0.1697
+Yellow Neon: 0.0684
+Total de atributos: 22
+
+3: CLOTHING
+
+None: 0.1135
+Black Hoodie: 0.0906
+Black Tank Top: 0.0656
+Closed Collared Shirt: 0.0701
+Collared Shirt with T-Shirt: 0.0798
+Golden Hoodie: 0.0125
+Hawaiian Shirt: 0.0663
+Open Collared Shirt: 0.0771
+Spiked Collared Shirt: 0.1007
+T-Shirt: 0.105
+Tie Dye T-Shirt: 0.0926
+Tie-Dye Hoodie: 0.0556
+Turtle neck: 0.0891
+White Hoodie: 0.0258
+White Tank Top: 0.0668
+Total de atributos: 15
+
+4: EYES
+
+Angry: 0.1004
+Bored: 0.1088
+Cry: 0.1002
+Dead: 0.1006
+Dizzy: 0.1019
+Happy: 0.0996
+Laugh: 0.1038
+Mad: 0.102
+Sad: 0.0977
+Serious: 0.0987
+Standard: 0.0974
+Total de atributos: 11
+
+5: BODY
+
+Black: 0.1047
+Blue: 0.1051
+Blue Lava: 0.0689
+Blue Purple Gradient: 0.0359
+Gold: 0.0104
+Hot Steel: 0.0343
+Iridescent PB: 0.0428
+Iridescent PG: 0.0467
+Iridescent PY: 0.0395
+Lava: 0.0735
+Metal: 0.0552
+Orange Yellow Gradient: 0.0378
+Psycho: 0.0398
+Purple Snakeskin: 0.0638
+Radioactive: 0.027
+Red: 0.1051
+Red Skakeskin: 0.0628
+Stone: 0.0349
+White: 0.1229
+Total de atributos: 19
+
+6: NECK ACCESSORY
+
+None: 0.7425
+Bead Necklace: 0.0662
+Bike Chain: 0.0668
+Bow Tie: 0.0304
+Bullet Necklace: 0.0558
+Chain: 0.0556
+Dog Tags: 0.0469
+Emerald Pendant: 0.0216
+Tattoos: 0.0253
+Total de atributos: 9
+
+7: BACKGROUND
+
+Black: 0.1252
+Blue: 0.1237
+Green: 0.1211
+Orange: 0.1229
+Pink: 0.1262
+Purple: 0.1268
+Red: 0.1229
+White: 0.1222
+Yellow: 0.1201
+Total de atributos: 9
+
+8: HELMET TOP
+
+None: 0.0001
+Black: 0.5513
+Dots: 0.0355
+Neon Blue: 0.0826
+Neon Green: 0.0806
+Neon Purple: 0.085
+Neon Red: 0.0809
+Neon Yellow: 0.0829
+Poligons: 0.0383
+Stripes: 0.0334
+Topography: 0.0405
+Total de atributos: 11
+
+9: HELMET JAW
+
+None: 0.4091
+Black: 0.6033
+Dots: 0.0254
+Poligons: 0.0227
+Stripes: 0.0258
+Topography: 0.0248
+Total de atributos: 6
+
+10: TRAIT COUNT
+
+5: 0.0013
+6: 0.0386
+7: 0.1831
+8: 0.3523
+9: 0.3446
+10: 0.1613
+11: 0.0292
+12: 0.0007
+Total de atributos: 8
+
+11: HAT
+
+None: 0.2977
+Baseball Hat: 0.0377
+Beer Hat: 0.0203
+Black Japanese Headband: 0.0184
+Blue Demon Horns: 0.0179
+Bowler Hat: 0.0309
+Cat Ears: 0.0357
+Chefs Hat: 0.0329
+Chopper Helmet: 0.0294
+Cowboy Hat: 0.0407
+Crown: 0.0082
+Dark Halo: 0.011
+Demon Horns: 0.0171
+Green Demon Horns: 0.0165
+Halo: 0.0123
+Headphones: 0.0275
+Knight Helmet: 0.023
+Military Helmet: 0.0286
+Motorcross Hood: 0.0139
+Pilot Hat: 0.0276
+Pirate Hat Argg: 0.0407
+Rainbow Straw Hat: 0.0129
+Red Bandana: 0.021
+Russian Winter Hat: 0.0269
+Samurai Helmet: 0.0184
+Satellite: 0.0128
+Smiley Bandana: 0.0184
+Spades Bandana: 0.0207
+Spartan Helmet: 0.0327
+Spike Mohawk: 0.0269
+Straw Hat: 0.0269
+Top Hat: 0.0302
+Viking Horns: 0.0368
+White Demon Horns: 0.0164
+White Japanese Headband: 0.0221
+Total de atributos: 35
+
+12: EYEWEAR
+
+3D glasses: 0.0372
+@@_rt_no_tags: 0.6123
+Blind Fold: 0.0251
+Elephant Trunk: 0.01
+Eye Patch: 0.0862
+Goggles: 0.0431
+Monocle: 0.0571
+Reading Glasses: 0.0454
+Shutter Shades: 0.0311
+Ski Goggles: 0.0423
+Skimask: 0.014
+Star Shades: 0.0223
+Sun Glasses: 0.0419
+Tie Dye Blind Fold: 0.0219
+VR Headset: 0.0279
+Total de atributos: 15
+
+13: OVERCOAT
+
+None: 0.6717
+Armor: 0.0497
+Biker Vest: 0.0839
+Fur Coat: 0.0109
+Gold Suit: 0.0084
+Leather Jacket: 0.1162
+Military Vest: 0.042
+Poncho: 0.0323
+Sheriff Vest: 0.0551
+Suit: 0.0409
+Total de atributos: 10
+
+Total de traits: 13
+Total de traits: 6227020800

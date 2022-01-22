@@ -1,0 +1,179 @@
+cryptopunks
+1: ID
+
+2: ATTRIBUTE COUNT
+
+0: 0.0008
+1: 0.0333
+2: 0.356
+3: 0.4501
+4: 0.142
+5: 0.0166
+6: 0.0011
+7: 0.0001
+Total de atributos: 8
+
+3: PUNK TYPE
+
+Alien: 0.0009
+Ape: 0.0024
+Female: 0.384
+Male: 0.6039
+Zombie: 0.0088
+Total de atributos: 5
+
+4: SKIN TONE
+
+Albino: 0.1018
+Alien: 0.0009
+Ape: 0.0024
+Dark: 0.2824
+Light: 0.3006
+Mid: 0.3031
+Zombie: 0.0088
+Total de atributos: 7
+
+5: FULL TYPE
+
+Alien: 0.0009
+Ape: 0.0024
+Female-Albino: 0.042
+Female-Dark: 0.1101
+Female-Light: 0.1145
+Female-Mid: 0.1174
+Male-Albino: 0.0598
+Male-Dark: 0.1723
+Male-Light: 0.1861
+Male-Mid: 0.1857
+Zombie: 0.0088
+Total de atributos: 11
+
+6: HAIR
+
+None: 0.0246
+Bandana: 0.0481
+Beanie: 0.0044
+Blonde Bob: 0.0147
+Blonde Short: 0.0129
+Cap: 0.0351
+Cap Forward: 0.0254
+Clown Hair Green: 0.0148
+Cowboy Hat: 0.0142
+Crazy Hair: 0.0414
+Dark Hair: 0.0157
+Do-rag: 0.03
+Fedora: 0.0186
+Frumpy Hair: 0.0442
+Half Shaved: 0.0147
+Headband: 0.0406
+Hoodie: 0.0259
+Knitted Cap: 0.0419
+Messy Hair: 0.046
+Mohawk: 0.0441
+Mohawk Dark: 0.0429
+Mohawk Thin: 0.0441
+Orange Side: 0.0068
+Peak Spike: 0.0303
+Pigtails: 0.0094
+Pilot Helmet: 0.0054
+Pink With Hat: 0.0095
+Police Cap: 0.0203
+Purple Hair: 0.0165
+Red Mohawk: 0.0147
+Shaved Head: 0.03
+Straight Hair: 0.0151
+Straight Hair Blonde: 0.0144
+Straight Hair Dark: 0.0148
+Stringy Hair: 0.0463
+Tassle Hat: 0.0178
+Tiara: 0.0055
+Top Hat: 0.0115
+Vampire Hair: 0.0147
+Wild Blonde: 0.0144
+Wild Hair: 0.0447
+Wild White Hair: 0.0136
+Total de atributos: 42
+
+7: EYES
+
+None: 0.3928
+3D Glasses: 0.0286
+Big Shades: 0.0535
+Blue Eye Shadow: 0.0266
+Classic Shades: 0.0502
+Clown Eyes Blue: 0.0384
+Clown Eyes Green: 0.0382
+Eye Mask: 0.0293
+Eye Patch: 0.0461
+Green Eye Shadow: 0.0271
+Horned Rim Glasses: 0.0535
+Nerd Glasses: 0.0572
+Purple Eye Shadow: 0.0262
+Regular Shades: 0.0527
+Small Shades: 0.0378
+VR: 0.0332
+Welding Goggles: 0.0086
+Total de atributos: 17
+
+8: FACIAL HAIR
+
+None: 0.6497
+Big Beard: 0.0146
+Chinstrap: 0.0282
+Front Beard: 0.0273
+Front Beard Dark: 0.026
+Goat: 0.0295
+Handlebars: 0.0263
+Luxurious Beard: 0.0286
+Mustache: 0.0288
+Muttonchops: 0.0303
+Normal Beard: 0.0292
+Normal Beard Black: 0.0289
+Shadow Beard: 0.0526
+Total de atributos: 13
+
+9: BLEMISHES
+
+None: 0.9104
+Mole: 0.0644
+Rosy Cheeks: 0.0128
+Spots: 0.0124
+Total de atributos: 4
+
+10: NECK ACCESSORY
+
+None: 0.9627
+Choker: 0.0048
+Gold Chain: 0.0169
+Silver Chain: 0.0156
+Total de atributos: 4
+
+11: MOUTH PROP
+
+None: 0.8275
+Cigarette: 0.0961
+Medical Mask: 0.0175
+Pipe: 0.0317
+Vape: 0.0272
+Total de atributos: 5
+
+12: MOUTH
+
+None: 0.7455
+Black Lipstick: 0.0617
+Buck Teeth: 0.0078
+Frown: 0.0261
+Hot Lipstick: 0.0696
+Purple Lipstick: 0.0655
+Smile: 0.0238
+Total de atributos: 7
+
+13: NOSE
+
+None: 0.9788
+Clown Nose: 0.0212
+Total de atributos: 2
+
+14: EARS
+
+Total de traits: 14

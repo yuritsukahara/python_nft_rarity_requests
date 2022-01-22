@@ -1,0 +1,112 @@
+punkcats
+1: ID
+
+2: ACCESSORY
+
+3D Glasses: 0.036
+Bandana: 0.046
+Beanie: 0.012
+Big Beard: 0.009
+Big Shades: 0.078
+Black Lipstick: 0.058
+Blonde Bob: 0.01
+Blonde Short: 0.014
+Blue Eye Shadow: 0.025
+Buck Teeth: 0.007
+Cap: 0.033
+Cap Forward: 0.028
+Chinstrap: 0.031
+Choker: 0.008
+Cigarette: 0.099
+Classic Shades: 0.058
+Clown Eyes Blue: 0.047
+Clown Eyes Green: 0.037
+Clown Hair Green: 0.009
+Clown Nose: 0.01
+Cowboy Hat: 0.017
+Crazy Hair: 0.044
+Dark Hair: 0.01
+Do-rag: 0.029
+Earring: 0.245
+Eye Mask: 0.038
+Eye Patch: 0.05
+Fallen Cat: 0.01
+Fedora: 0.012
+Front Beard: 0.033
+Front Beard Dark: 0.023
+Frown: 0.018
+Frumpy Hair: 0.04
+Goat: 0.029
+Gold Chain: 0.024
+Green Eye Shadow: 0.028
+Half Shaved: 0.009
+Handlebars: 0.024
+Headband: 0.035
+Hoodie: 0.036
+Horned Rim Glasses: 0.048
+Hot Lipstick: 0.054
+Knitted Cap: 0.039
+Luxurious Beard: 0.027
+Medical Mask: 0.02
+Messy Hair: 0.041
+Mohawk: 0.039
+Mohawk Dark: 0.029
+Mohawk Thin: 0.041
+Mole: 0.058
+Mustache: 0.028
+Muttonchops: 0.023
+Nerd Glasses: 0.064
+Normal Beard: 0.031
+Normal Beard Black: 0.026
+Orange Side: 0.015
+Peak Spike: 0.03
+Pigtails: 0.01
+Pilot Helmet: 0.009
+Pink With Hat: 0.022
+Pipe: 0.047
+Police Cap: 0.023
+Purple Eye Shadow: 0.025
+Purple Hair: 0.018
+Purple Lipstick: 0.092
+Purr Massage: 0.03
+Red Mohawk: 0.01
+Regular Shades: 0.047
+Rosy Cheeks: 0.015
+Shadow Beard: 0.053
+Shaved Head: 0.021
+Silver Chain: 0.018
+Small Shades: 0.038
+Smile: 0.021
+Spots: 0.014
+Straight Hair: 0.008
+Straight Hair Blonde: 0.013
+Straight Hair Dark: 0.009
+Stringy Hair: 0.044
+Tassle Hat: 0.019
+Teasing Kitty: 0.03
+Tiara: 0.014
+Top Hat: 0.016
+VR: 0.035
+Vampire Hair: 0.012
+Vape: 0.029
+Wandering tail: 0.03
+Welding Goggles: 0.011
+Wild Blonde: 0.014
+Wild Hair: 0.064
+Wild White Hair: 0.022
+Total de atributos: 91
+
+3: TYPE
+
+Alien: 0.008
+Ape: 0.02
+Female: 0.376
+Male: 0.516
+Zombie: 0.08
+Total de atributos: 5
+
+4: TRAIT COUNT
+
+5: DISPLAYID
+
+Total de traits: 5
